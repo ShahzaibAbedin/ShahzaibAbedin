@@ -22,8 +22,8 @@ I'm a **Computer Science student** at **New Jersey Institute of Technology (NJIT
 ## 📂 Projects  
 
 ## 📫 Let's Connect!  
-💼 **LinkedIn:** [Shahzaib Abedin](www.linkedin.com/in/shahzaib-abedin-a1108b353)  
+💼 **LinkedIn:** www.linkedin.com/in/shahzaib-abedin-a1108b353  
 📧 **Email:** abedinshahzaib@gmail.com  
 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 
-🚀 *Open to collaboration on any projects!*  
+## 🚀 *Open to collaboration on any projects!*  
