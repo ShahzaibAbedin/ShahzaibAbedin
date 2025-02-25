@@ -22,7 +22,7 @@ I'm a **Computer Science student** at **New Jersey Institute of Technology (NJIT
 ## 📂 Projects  
 
 ## 📫 Let's Connect!  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
+💼 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/shahzaib-abedin-a1108b353)  
 📧 **Email:** abedinshahzaib@gmail.com  
 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 
