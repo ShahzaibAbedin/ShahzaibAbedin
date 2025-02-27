@@ -19,8 +19,6 @@ I'm a **Computer Science student** at **New Jersey Institute of Technology (NJIT
 - Web Development: HTML, CSS, JavaScript  
 - Tools: Git, VS Code, Linux  
 
-## 📂 Projects  
-
 ## 📫 Let's Connect!  
 💼 **LinkedIn:** www.linkedin.com/in/shahzaib-abedin-a1108b353  
 📧 **Email:** abedinshahzaib@gmail.com  
